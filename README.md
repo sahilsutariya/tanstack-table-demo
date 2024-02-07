@@ -20,8 +20,22 @@ Before running this demo, ensure you have the following installed:
 ```bash
 git clone https://github.com/sahilsutariya/tanstack-table-demo
 
+```
+
+2. Navigate into the project directory:
+
+```bash
 cd tanstack-table-demo
+```
 
+3. Install dependencies:
+
+```bash
 npm install or yarn
+```
 
+3. Start Server Locally:
+
+```bash
 npm start or yarn start
+```
