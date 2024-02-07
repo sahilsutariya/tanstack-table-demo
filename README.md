@@ -34,7 +34,7 @@ cd tanstack-table-demo
 npm install or yarn
 ```
 
-3. Start Server Locally:
+4. Start Server Locally:
 
 ```bash
 npm start or yarn start
